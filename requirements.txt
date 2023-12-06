@@ -1,7 +1,5 @@
 tensorflow
 numpy
 opencv-python-headless
-PIL
-os
 flask
 werkzeug.utils
